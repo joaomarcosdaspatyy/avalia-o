@@ -1,2 +1,10 @@
 h1 {color:black}
 #ima1 {width: 50%;}
+
+h2 {color: blue}
+body {background-color: black;}
+
+h1 {font-size: 30%;}
+h2 {font-size: 10%;}
+
+#ima1 {margin-right: 50%; color:blue}
